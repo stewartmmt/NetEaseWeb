@@ -1,0 +1,22 @@
+
+.viewPort{
+    width: 1277px;
+    height: 837px;
+    border: 1px solid;
+}
+.ahead{width: 1277px;
+    height: 76px;
+    background-color:rgb(236,65,65);
+
+}
+.LSide{background-color: white;
+    width: 249px;
+    height: 673px;} 
+    /* head内部 */
+.header{width: 249px;
+    height: auto;
+    border: 1px solid;
+    line-height: 76px;}
+.headIn{display: inline-block;
+    }
+.box{margin: right 20px;}    
